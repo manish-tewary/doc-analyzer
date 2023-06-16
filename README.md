@@ -8,7 +8,7 @@
 
 ## Quick Start 🚀
 
-[![Docusaurus](https://img.shields.io/static/v1?label=Docusaurus&message=Visit%20Website&color=ffffff&labelColor=ADD8E6&style=for-the-badge)](https://robby-chatbot.streamlit.app/https://uipathindia.com/automationexcellenceawards/winners2022/excellence-in-legal-hr-other-process-automation)
+[![Docusaurus](https://img.shields.io/static/v1?label=Docusaurus&message=Visit%20Website&color=ffffff&labelColor=ADD8E6&style=for-the-badge)](https://uipathindia.com/automationexcellenceawards/winners2022/excellence-in-legal-hr-other-process-automation)
 
 
 ## Running Locally 💻
